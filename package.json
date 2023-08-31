@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "custom-select": "^1.1.15",
+    "inputmask": "^5.0.8"
+  }
+}
